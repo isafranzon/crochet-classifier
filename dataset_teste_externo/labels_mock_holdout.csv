@@ -1,0 +1,7 @@
+Arquivo,Classe,Tipo de erro
+correto_extra_01.jpg,correto,-
+erro_extra_01.jpg,erro,linha_faltando
+correto_extra_02.jpg,correto,-
+erro_extra_02.jpg,erro,linha_deslocada
+correto_extra_03.jpg,correto,-
+erro_extra_03.jpg,erro,linha_faltando
